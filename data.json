@@ -1,0 +1,21 @@
+{
+  "title": "Solusi Tugas & Project IT Kamu!",
+  "subtitle": "Layanan Untuk Mahasiswa",
+  "badges": ["Beban Tugas Jadi Lebih Ringan", "Aman & Profesional"],
+  "services": [
+    {"id": "01", "name": "Laporan & Skripsi", "icons": ["Word", "PDF", "LaTeX", "Docs"]},
+    {"id": "02", "name": "Tugas Kuliah & UTS/UAS", "icons": ["Buku", "Topi Wisuda", "Catatan", "Kuis"]},
+    {"id": "03", "name": "Website", "icons": ["HTML5", "CSS", "Vue", "React", "Laravel"]},
+    {"id": "04", "name": "Aplikasi Mobile", "icons": ["Flutter", "Kotlin", "Android", "Swift"]},
+    {"id": "05", "name": "AI/Machine Learning", "icons": ["Python", "TensorFlow", "PyTorch", "Scikit-learn"]},
+    {"id": "06", "name": "Data Science", "icons": ["Jupyter", "R", "Pandas", "Grafik"]},
+    {"id": "07", "name": "Diagram Database", "icons": ["ERD", "Draw.io", "MySQL", "PostgreSQL"]},
+    {"id": "08", "name": "UI/UX Design", "icons": ["Figma", "Adobe XD", "Illustrator", "Sketch"]},
+    {"id": "09", "name": "Internet of Things (IoT)", "icons": ["Arduino", "Raspberry Pi", "ESP32", "Node"]},
+    {"id": "10", "name": "Game Development", "icons": ["Unity", "Unreal", "Godot", "Gamepad"]},
+    {"id": "11", "name": "Aplikasi Desktop", "icons": ["C#", "Java", "Python", "C++"]},
+    {"id": "12", "name": "Perbaikan & Take Over Project", "icons": ["Wrench", "Bug", "Code", "Refresh"]},
+    {"id": "13", "name": "Hosting & Development", "icons": ["Cloud", "Database", "NGINX", "Docker"]},
+    {"id": "14", "name": "Layanan Lainnya", "icons": ["Layers", "Settings", "Puzzle", "More"]}
+  ]
+      }
