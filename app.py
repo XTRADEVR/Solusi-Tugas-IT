@@ -8,7 +8,7 @@ import streamlit as st
 BASE_DIR = Path(__file__).parent
 
 # ---------------------------------------------------------------- konfigurasi
-WA_NUMBER = "6281234567890"  # GANTI dengan nomor WhatsApp kamu (format 62xxxxxxxxxx)
+WA_NUMBER = "6289501857938"  # GANTI dengan nomor WhatsApp kamu (format 62xxxxxxxxxx)
 WA_MESSAGE = "Halo, saya ingin konsultasi gratis tentang tugas / project IT."
 
 DEVICON = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/{n}/{n}-original.svg"
